@@ -1,5 +1,5 @@
 # fastai experiments
-> I'm currently taking the ongoing (yet to be released) verstion of the fastai course and also reading the fastai [book](https://github.com/fastai/fastbook) alongside. This repository contains experiments and personal projects that I would be working on as I go through the course. 
+> I'm currently taking the ongoing (yet to be released) version of the fastai course and also reading the fastai [book](https://github.com/fastai/fastbook) alongside. This repository contains experiments and personal projects that I would be working on as I go through the course. 
 
 ## Projects
 
