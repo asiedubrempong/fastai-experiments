@@ -3,10 +3,22 @@
 
 ## Projects
 
-* [COVID-19 Mask Types](#covid-19-masks)
+* [COVID-19 Mask Types](#covid-19-mask-types)
+* [Under the hood: MNIST full](#under-the-hood:-mnist-full)
+* [Basic Learner Implementation](#basic-learner-implementation)
 
 
-## 1. COVID-19 Mask Types
+## 3. [Basic Learner Implementation](learner.ipynb)
+
+Implements a Learner from scratch based on the training loop in chapter 4 of the fastai book.
+
+
+## 2. [Under the hood: MNIST full](mnist_full_chapter_4.ipynb)
+
+This notebook reproduces chapter 4 of the fastai book on the full MNIST dataset.
+
+
+## 1. [COVID-19 Mask Types](masks.ipynb)
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/asiedubrempong/fastai-experiments/master?filepath=masks.ipynb)
 
