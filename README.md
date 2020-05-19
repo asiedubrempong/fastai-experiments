@@ -6,6 +6,18 @@
 * [COVID-19 Mask Types](#covid-19)
 * [Under the hood - MNIST full](#under-the-hood)
 * [Basic Learner Implementation](#basic-learner)
+* [Plant Pathology 2020 - FGVC7](#plant-pathology)
+* [mixup](#mixup)
+
+
+## 5. <a name="mixup"></a>[mixup](mixup/)
+
+Implementation of the mixup [paper](https://arxiv.org/abs/1710.09412) in PyTorch and fastai.
+
+
+## 4. <a name="plant-pathology"></a>[Plant Pathology 2020 - FGVC7](plant-pathology/)
+
+Identify the category of foliar diseases in apple trees from the [Plant Pathology](https://www.kaggle.com/c/plant-pathology-2020-fgvc7/overview) competition on Kaggle. Folder contains series of notebooks that document different approaches used.
 
 
 ## 3. <a name="covid-19"></a>[Basic Learner Implementation](learner.ipynb)
